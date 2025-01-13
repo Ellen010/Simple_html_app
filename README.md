@@ -1,5 +1,5 @@
-# Simple_html_app
-Simple app
+# simple-html-app
+
 <!DOCTYPE html>
 <html lang="en">
 <body>
